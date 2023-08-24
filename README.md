@@ -6,7 +6,7 @@ Projeto realizado para trabalho final da matéria de Programação orientada a o
 
 - ENTRAR NA PASTA SRC/CONNECTOR E INSTALAR TODOS .JAR
 - JDK 20.
-- CRIAR BANCO DE DADOS LOCAL
+- CRIAR BANCO DE DADOS LOCAL COM O ARQUIVO BANCO.SQL JÁ NO PACOTE
 
 ### 🔧 Instalação
 ```
